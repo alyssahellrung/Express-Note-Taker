@@ -1,1 +1,17 @@
-[{"title":"Test Title","text":"Test text"}]
+[
+  {
+    "title": "Spring Cleaning",
+    "text": "Drop off unwanted items at Goodwill and recycle electronics.",
+    "id": "1"
+  },
+  {
+    "title": "Job Search",
+    "text": "Update resume and brand statement, contact all existing connections for coffee/Zoom meetings.",
+    "id": "2"
+  },
+  {
+    "title": "Research Online School Options",
+    "text": "Look into WA Connections Academy, free public online school",
+    "id": "3"
+  }
+]
