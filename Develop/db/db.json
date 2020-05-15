@@ -1,7 +1,7 @@
 [
   {
     "title": "Spring Cleaning",
-    "text": "Drop off unwanted items at Goodwill and recycle electronics.",
+    "text": "Clean out basement and drop off unwanted items at Goodwill.",
     "id": "1"
   },
   {
@@ -13,5 +13,10 @@
     "title": "Research Online School Options",
     "text": "Look into WA Connections Academy, free public online school",
     "id": "3"
+  },
+  {
+    "title": "Books to Read",
+    "text": "Untamed by Glennon Doyle\nQualifying Times: Points of Change in U.S. Women's Sport by Jaime Schultz\nThe End of the Perfect 10 by Dvora Meyers",
+    "id": "374c090e-f717-43ec-b84a-982ab9c8adf4"
   }
 ]
