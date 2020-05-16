@@ -1,22 +1,17 @@
 [
   {
-    "title": "Spring Cleaning",
-    "text": "Clean out basement and drop off unwanted items at Goodwill.",
-    "id": "1"
+    "title": "Note 1",
+    "text": "Your note text goes here.",
+    "id": "6d569f8e-67d9-4eea-b0c7-7cef6ba947d9"
   },
   {
-    "title": "Job Search",
-    "text": "Update resume and brand statement, contact all existing connections for coffee/Zoom meetings.",
-    "id": "2"
+    "title": "Note 2",
+    "text": "Your note text goes here.",
+    "id": "6b7d3a89-8097-4316-b0a8-5b6693b6fbd1"
   },
   {
-    "title": "Research Online School Options",
-    "text": "Look into WA Connections Academy, free public online school",
-    "id": "3"
-  },
-  {
-    "title": "Books to Read",
-    "text": "Untamed by Glennon Doyle\nQualifying Times: Points of Change in U.S. Women's Sport by Jaime Schultz\nThe End of the Perfect 10 by Dvora Meyers",
-    "id": "374c090e-f717-43ec-b84a-982ab9c8adf4"
+    "title": "Note 3",
+    "text": "Your note text goes here.",
+    "id": "c614f806-b818-4563-87d1-443321cd1f51"
   }
 ]
