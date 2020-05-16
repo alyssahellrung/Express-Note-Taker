@@ -40,6 +40,7 @@ uuid
 
 ## How to Use  
 Navigate to (https://still-dusk-77371.herokuapp.com) and click the "Get Started" button. A new page will appear that will display any previously saved notes on the left side of the screen. Click on any of the saved notes to view their content. Click a note's trash icon to delete that note.  
+
 If you would like to write a new note, click the pencil icon in the upper right corner of the page. Write your new note's title in the "Note Title" field and then write the body of your note in the "Note Text" field. Click the disc icon in the upper right corner of the screen to save your new note.
 
 ![image](https://media.giphy.com/media/WUaLBQzu1MQqyCE0qd/giphy.gif)
